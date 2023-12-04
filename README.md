@@ -3,7 +3,7 @@
 <h2>📊Data Analyst Projects:</h2>
 
 - <b>SQL Project</b>
-  - [Demostrating SQL Techniques](https://jciwilliams.github.io/)
+  - [Demostrating SQL Techniques](https://github.com/jciwilliams/SQL_Techniques.git)
 - <b>Power BI Project</b>
   - [Demostrating Data Visualization](https://jciwilliams.github.io/)
 - <b>Data Story Telling</b>
