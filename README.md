@@ -2,16 +2,16 @@
 
 <h2>📊Data Analyst Projects:</h2>
 
-- <b>SQL Project</b>
+- <b>💾SQL Project</b>
   - [Demostrating SQL Techniques](https://github.com/jciwilliams/SQL_Techniques.git)
-- <b>Power BI Project</b>
+- <b>🎨Power BI Project</b>
   - [Demostrating Data Visualization](https://jciwilliams.github.io/)
-- <b>Data Story Telling</b>
+- <b>📝Data Story Telling</b>
   - [Telling the Story Behind the Data](https://jciwilliams.github.io/)
 
 <h2>📚Certifications:</h2>
 
-- <b>Scrum Master</b>
+- <b>🧐Scrum Master</b>
   - [Demostrating Project Management](https://jciwilliams.github.io/)
     
 <h2>📱Connect with me:</h2>
