@@ -1,5 +1,6 @@
 <h1>Hi, I'm Janelle! <br/><a 
-href=>Data Analyst</a> </h1>
+href=>Scrum Master</a>, <a
+href="https://www.linkedin.com/in/williams-janelle/">Data Analyst</a></h1>
 
 <h2>📊Data Analyst Projects:</h2>
 
