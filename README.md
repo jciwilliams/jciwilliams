@@ -18,4 +18,7 @@ href=>Scrum Master</a></h1>
   - [Demonstrating Project Management](https://jciwilliams.github.io/)
     
 <h2>📱Connect with me:</h2>
-<img align="left" alt="JanelleWilliams | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/williams-janelle/
+<a href="https://www.linkedin.com/in/williams-janelle/" target="_blank">
+  <img align="left" alt="Janelle Williams | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
