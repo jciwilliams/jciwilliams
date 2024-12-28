@@ -1,6 +1,8 @@
 <h1>Hi, I'm Janelle! <br/><a 
-href=>Scrum Master</a>, <a
-href="https://www.linkedin.com/in/williams-janelle/">Data Analyst</a></h1>
+href="https://www.linkedin.com/in/williams-janelle/">Data Analyst</a>, <a
+href=>Reporting Analyst</a>, <a
+href=>Business Data/Tool Analyst</a>, <a
+href=>Scrum Master</a></h1>
 
 <h2>📊Data Analyst Projects:</h2>
 
