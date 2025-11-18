@@ -1,9 +1,8 @@
 <h1>Hi, I'm Janelle! <br/><a 
-href="https://www.linkedin.com/in/williams-janelle/">Data Analyst</a>, <a
-href=>Business Data/Tools Analyst</a>, <a
+href="https://www.linkedin.com/in/williams-janelle/">Business Data/Tools Analyst</a>, <a
 href=>Scrum Master</a></h1>
 
-<h2>📊Data Analystics Projects:</h2>
+<h2>📊Data Analytics Projects:</h2>
 
 - <b>💾SQL Project</b>
   - [Demonstrating SQL Techniques](https://github.com/jciwilliams/SQL_Techniques.git)
