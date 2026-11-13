@@ -3,7 +3,7 @@
 <!-- COMMENT START: MULTIPLE PROFESSIONAL ROLES -->
 <h3>
   <a href="https://www.linkedin.com/in/williams-janelle/">IT Data Reporting Analyst</a> |
-  <a href="https://www.linkedin.com/in/williams-janelle/">Data Analyst</a> |
+  <a href="https://www.linkedin.com/in/williams-janelle/">Business Data/Tools Analyst</a> |
   <a href="https://www.linkedin.com/in/williams-janelle/">SQL & Python Instructor</a> |
   <a href="https://www.linkedin.com/in/williams-janelle/">SAFe Scrum Master</a>
 </h3>
